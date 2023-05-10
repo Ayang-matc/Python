@@ -1,0 +1,1 @@
+{"dist-sw01": {"mgmt": "10.10.20.177", "devType": "NXOS"}, "dist-sw02": {"mgmt": "10.10.20.178", "devType": "NXOS"}, "dist-rt01": {"mgmt": "10.10.20.175", "devType": "IOS-XE"}, "dist-rt02": {"mgmt": "10.10.20.176", "devType": "IOS-XE"}, "s8": {"mgmt": "10.0.1.1", "devType": "NXOS"}}
